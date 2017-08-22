@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "fs-extra": "~4.0.0"
+    "require": "^2.4.20"
   },
   "devDependencies": {
     "fs-extra": "^3.0.0"
