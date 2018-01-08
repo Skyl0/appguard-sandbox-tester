@@ -1,0 +1,8 @@
+{
+    "name": "Sandbox",
+    "main_branch": "master",
+    "manager": "npm",
+    "integrations": [],
+    "update_behaviors": [],
+    "events": []
+}
