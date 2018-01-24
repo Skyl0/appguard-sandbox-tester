@@ -3,5 +3,6 @@
     "main_branch": "master",
     "manager": "npm",
     "integrations": [],
-    "update_behaviors": []
+    "update_behaviors": [],
+    "events": []
 }
